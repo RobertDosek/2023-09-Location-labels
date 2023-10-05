@@ -26,7 +26,7 @@ This Python script serves as a tool for generating location labels with QR codes
 ### CSV Data Loading:
 - Reads location data from a CSV file (`locations.csv`).
 ### GUI Interface:
-- Implements a user-friendly interface using Tkinter, allowing users to select label formats and initiate the printing process.
+- Implements a user-friendly interface using Tkinter with ttk Azure theme, allowing users to select label formats and initiate the printing process.
 ### Result Output:
 - Outputs generated labels as a PDF file (`tisk_lokaci.pdf`) in a specified output folder.
 
