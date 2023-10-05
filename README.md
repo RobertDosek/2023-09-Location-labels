@@ -30,6 +30,7 @@ labels: A library for defining label formats.
 tkinter: GUI library for creating the user interface.
 qrcode: Library for generating QR codes.
 reportlab: Used for PDF generation.
+Azure ttk theme for more modern look
 
 Using the Application:
 
